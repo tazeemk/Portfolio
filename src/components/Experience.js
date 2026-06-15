@@ -11,24 +11,37 @@ const Experience = () => {
   });
 
   const experiences = [
-    {
-      company: 'Simpana Technologies Pvt Ltd',
-      role: 'Associate Software Engineer',
-      duration: 'April 2025 - Present',
-      location: 'Bangalore, India',
-      achievements: [
-        'Developed and maintained enterprise applications using Java and Spring Boot',
-        'Implemented JWT Authentication and OAuth2 for secure API endpoints',
-        'Integrated Kafka-based asynchronous communication between microservices',
-        'Built RESTful APIs and optimized database queries for performance',
-        'Worked on React frontend development for responsive user interfaces',
-        'Integrated AI-powered features using RAG systems and LangChain',
-        'Provided production support and resolved critical bugs in real-time',
-        'Collaborated with cross-functional teams in Agile environment',
-      ],
-    },
-  ];
-
+  {
+    company: 'SPIL Technologies Pvt Ltd',
+    role: 'Associate Software Engineer',
+    duration: 'May 2024 - April 2025',
+    location: 'India',
+    achievements: [
+      'Built 5+ full-stack web applications using Java, Spring Boot, MySQL, MongoDB, and JavaScript with CRUD operations, responsive UI, and optimized backend services',
+      'Secured applications using Spring Security with JWT, OAuth2, and RBAC following OWASP standards',
+      'Developed scalable RESTful APIs and integrated backend services with frontend applications',
+      'Worked closely with cross-functional teams to deliver enterprise-grade software solutions',
+    ],
+  },
+  {
+    company: 'Simpana Technologies Pvt Ltd',
+    role: 'Software Engineer (Full Stack Java Developer)',
+    duration: 'April 2025 - Present',
+    location: 'Ghaziabad, Uttar Pradesh, India',
+    achievements: [
+      'Developed and delivered 2+ production full-stack applications using Spring Boot, React.js, MySQL, and TypeScript',
+      'Serving 100,000+ active users with 99.9% uptime and zero critical incidents',
+      'Engineered 25+ RESTful APIs with Spring Boot/Spring MVC including authentication, validation, and error handling',
+      'Achieved 40% improvement in response times via PostgreSQL query optimization and Redis caching',
+      'Implemented JWT Authentication and OAuth2 for secure API endpoints',
+      'Integrated Kafka-based asynchronous communication between microservices',
+      'Worked on React frontend development for responsive user interfaces',
+      'Integrated AI-powered features using RAG systems and LangChain',
+      'Provided production support and resolved critical bugs in real-time',
+      'Collaborated with cross-functional teams in Agile environment',
+    ],
+  },
+];
   const education = [
     {
       degree: 'Master of Computer Applications (MCA)',
