@@ -117,7 +117,7 @@ const Hero = () => {
           <motion.div variants={itemVariants} className='hero-info'>
             <div className='info-item'>
               <span className='info-label'>Location:</span>
-              <span className='info-value'>Ghaziabad, India</span>
+              <span className='info-value'>Noida, India</span>
             </div>
             <div className='info-divider'></div>
             <div className='info-item'>

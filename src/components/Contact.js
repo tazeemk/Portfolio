@@ -53,7 +53,7 @@ const Contact = () => {
     {
       icon: FaMapMarkerAlt,
       label: 'Location',
-      value: 'Ghaziabad, Uttar Pradesh, India',
+      value: 'Noida, Uttar Pradesh, India',
       link: '#',
     },
   ];

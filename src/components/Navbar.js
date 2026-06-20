@@ -24,7 +24,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className='navbar-container'>
         <Link to='home' smooth={true} duration={500} className='navbar-logo'>
-          TK
+          
         </Link>
 
         <div className='menu-icon' onClick={handleClick}>
