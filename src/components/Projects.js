@@ -23,7 +23,7 @@ const Projects = () => {
         'Resolved production issues',
         'Supported 500+ daily users',
       ],
-      technologies: ['Java 17', 'Spring Boot', 'Hibernate', 'Angular', 'TypeScript', 'React.js', 'SQL Server', 'JWT'],
+      technologies: ['Java 17', 'Spring Boot', 'Hibernate', 'Angular', 'TypeScript', 'SQL Server', 'JWT'],
       featured: true,
       stats: {
         performance: '45% faster',
@@ -42,7 +42,7 @@ const Projects = () => {
         'LLM-based answer generation',
         'Vector database integration',
       ],
-      technologies: ['Python', 'LangChain', 'Qdrant', 'Ollama','Angular','TypeScript', 'React.js', 'FastAPI'],
+      technologies: ['Python', 'LangChain', 'Qdrant', 'Ollama','TypeScript', 'React.js', 'FastAPI'],
       featured: false,
       stats: {
         accuracy: '95%',
@@ -67,7 +67,6 @@ const Projects = () => {
         'Spring Batch',
         'Angular',
         'TypeScript',
-        'React.js',
         'MySQL',
         'Docker',
         'JWT',
