@@ -11,6 +11,7 @@ import {
   FaServer,
   FaCogs,
   FaCubes,
+  FaAngular,
 } from 'react-icons/fa';
 import { SiSpringboot, SiHibernate } from 'react-icons/si';
 import '../styles/Skills.css';
@@ -37,6 +38,8 @@ const Skills = () => {
     {
       title: 'Frontend',
       skills: [
+        { name: 'Angular', icon: FaAngular, color: '#61DAFB' },
+        { name: 'TypeScript', icon: FaAngular, color: '#61DAFB' },
         { name: 'React.js', icon: FaReact, color: '#61DAFB' },
         { name: 'JavaScript', icon: FaReact, color: '#F7DF1E' },
         { name: 'HTML', icon: FaReact, color: '#E34C26' },
