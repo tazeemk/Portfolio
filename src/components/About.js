@@ -63,7 +63,7 @@ const About = () => {
             </p>
 
             <p className='about-paragraph'>
-              Currently working at <span className='highlight'>Spil Technologies Pvt Ltd</span>, where
+              Currently working at <span className='highlight'>Taxtron Technologies </span>, where
               I contribute to enterprise application development and explore innovative solutions
               using cutting-edge technologies. I believe in clean code, continuous learning, and
               building products that solve real-world problems.

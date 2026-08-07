@@ -12,8 +12,8 @@ const Experience = () => {
 
   const experiences = [
   {
-    company: 'SPIL Technologies Pvt Ltd',
-    role: ' Software Engineer',
+    company: 'Taxtron Technologies Private Limited',
+    role: 'Associate Software Engineer',
     duration: 'March 2024 - Present',
     location: 'India',
     achievements: [
