@@ -88,7 +88,7 @@ const Hero = () => {
 
           <motion.div variants={itemVariants} className='hero-buttons'>
             <a
-              href='https://docs.google.com/document/d/1LwHoTqHmsOi9VvFIxmfpYy0gfCNaVZSU/edit'
+              href='https://docs.google.com/document/d/1AwW3ah8ki8iOHMtkgUV3P68ykjVqcMfL/edit?usp=drive_link&ouid=116012601473421634124&rtpof=true&sd=true'
               target='_blank'
               rel='noopener noreferrer'
               className='btn btn-primary'
