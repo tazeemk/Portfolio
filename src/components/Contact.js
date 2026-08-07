@@ -170,7 +170,7 @@ const Contact = () => {
               </div>
 
               <motion.a
-                href='https://docs.google.com/document/d/1LwHoTqHmsOi9VvFIxmfpYy0gfCNaVZSU/edit'
+                href='https://docs.google.com/document/d/1AwW3ah8ki8iOHMtkgUV3P68ykjVqcMfL/edit?usp=sharing&ouid=116012601473421634124&rtpof=true&sd=true'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='resume-download-btn'
