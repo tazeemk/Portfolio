@@ -23,7 +23,7 @@ const Projects = () => {
         'Resolved production issues',
         'Supported 500+ daily users',
       ],
-      technologies: ['Java 17', 'Spring Boot', 'Hibernate', 'Angular', 'TypeScript', 'SQL Server', 'JWT'],
+      technologies: ['Java 17', 'Spring Boot', 'Hibernate', 'React.js', 'TypeScript', 'SQL Server', 'JWT'],
       featured: true,
       stats: {
         performance: '45% faster',
@@ -65,7 +65,7 @@ const Projects = () => {
         'Java 8',
         'Spring Boot',
         'Spring Batch',
-        'Angular',
+        'React.js',
         'TypeScript',
         'MySQL',
         'Docker',

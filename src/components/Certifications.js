@@ -17,8 +17,8 @@ const Certifications = () => {
       issuer: 'Naresh IT, Hyderabad',
       issueDate: 'June 2023',
       expiryDate: 'January 2024',
-      description: 'Comprehensive certification covering Java, Spring Boot, Hibernate, REST APIs, and Angular for full-stack development.',
-      skills: ['Java', 'Spring Boot', 'Hibernate', 'REST API', 'Angular', 'TypeScript', 'React.js', 'MySQL','DevSecAp Tools'],
+      description: 'Comprehensive certification covering Java, Spring Boot, Hibernate, REST APIs, and React.js for full-stack development.',
+      skills: ['Java', 'Spring Boot', 'Hibernate', 'REST API', 'React.js', 'TypeScript', 'React.js', 'MySQL','DevSecAp Tools'],
       badge: '🏆',
     },
   ];

@@ -14,7 +14,7 @@ const Hero = () => {
   useEffect(() => {
     const words = [
       'Full Stack  Developer',
-      'Angular/React Developer',
+      'React.js/React Developer',
       'AI/RAG Enthusiast',
     ];
     const period = 2000;
@@ -82,7 +82,7 @@ const Hero = () => {
               <span className='cursor'>|</span>
             </div>
             <p className='hero-description'>
-              Full Stack Java Developer with strong expertise in Spring Boot, Angular, TypeScript, React.js, Microservices, and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
+              Full Stack Java Developer with strong expertise in Spring Boot, React.js, TypeScript, React.js, Microservices, and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
             </p>
           </motion.div>
 
