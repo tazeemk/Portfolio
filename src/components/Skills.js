@@ -11,7 +11,7 @@ import {
   FaServer,
   FaCogs,
   FaCubes,
-  FaReact.js,
+  FaReact,
 } from 'react-icons/fa';
 import { SiSpringboot, SiHibernate } from 'react-icons/si';
 import '../styles/Skills.css';
@@ -38,7 +38,6 @@ const Skills = () => {
     {
       title: 'Frontend',
       skills: [
-        { name: 'React.js', icon: FaReact.js, color: '#61DAFB' },
         { name: 'TypeScript', icon: FaReact.js, color: '#61DAFB' },
         { name: 'React.js', icon: FaReact, color: '#61DAFB' },
         { name: 'JavaScript', icon: FaReact, color: '#F7DF1E' },

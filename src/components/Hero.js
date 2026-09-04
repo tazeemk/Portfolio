@@ -14,7 +14,7 @@ const Hero = () => {
   useEffect(() => {
     const words = [
       'Full Stack  Developer',
-      'React.js/React Developer',
+      'React Developer',
       'AI/RAG Enthusiast',
     ];
     const period = 2000;
