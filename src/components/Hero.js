@@ -82,13 +82,13 @@ const Hero = () => {
               <span className='cursor'>|</span>
             </div>
             <p className='hero-description'>
-              Full Stack Java Developer with strong expertise in Java 21 ,Spring Boot, TypeScript, React.js, Microservices, and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
+              Full Stack Java Developer with strong expertise in Java 21 ,Spring Boot,Microservices,SQL,Design Patterns,JavaScript, React.js, , and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
             </p>
           </motion.div>
 
           <motion.div variants={itemVariants} className='hero-buttons'>
             <a
-              href='https://docs.google.com/document/d/1AwW3ah8ki8iOHMtkgUV3P68ykjVqcMfL/edit?usp=drive_link&ouid=116012601473421634124&rtpof=true&sd=true'
+              href='https://docs.google.com/document/d/1yC6GYDqzXZ8pjzuSOwDb46uxHLGGA33W/edit?usp=drive_link&ouid=116012601473421634124&rtpof=true&sd=true'
               target='_blank'
               rel='noopener noreferrer'
               className='btn btn-primary'
