@@ -52,7 +52,7 @@ const About = () => {
               I'm a passionate <span className='highlight'>Full Stack Java Developer</span> with
               hands-on experience in building scalable enterprise applications. My expertise spans
               across backend development with Spring Boot, microservices architecture, and
-              front-end development with React.js/React.js.
+              front-end development with React.js
             </p>
 
             <p className='about-paragraph'>

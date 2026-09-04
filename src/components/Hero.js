@@ -82,7 +82,7 @@ const Hero = () => {
               <span className='cursor'>|</span>
             </div>
             <p className='hero-description'>
-              Full Stack Java Developer with strong expertise in Spring Boot, React.js, TypeScript, React.js, Microservices, and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
+              Full Stack Java Developer with strong expertise in Java 21 ,Spring Boot, TypeScript, React.js, Microservices, and Cloud-Native Architecture. Experienced in designing, developing, and deploying scalable enterprise applications with a focus on performance, security, and maintainability. Passionate about building distributed systems, AI-powered solutions, and delivering innovative digital products that drive business value.
             </p>
           </motion.div>
 
