@@ -25,7 +25,7 @@ const Projects = () => {
         'Supported 500+ daily users',
       ],
       technologies: ['Java 17', 'Spring Boot','Spring batch','Spring scheduler','Hibernate', 'React.js', 'JavaScript','Docker', 'SQL Server', 'JWT'],
-      featured: true,
+      featured: false,
       stats: {
         performance: '45% faster',
         users: '500+',
@@ -72,7 +72,7 @@ const Projects = () => {
         'Docker',
         'JWT',
       ],
-      featured: true,
+      featured: false,
       stats: {
         transactions: '1000+',
         workers: '500+',
