@@ -13,17 +13,18 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'Warehouse Management System',
+      title: 'Enterprise Warehouse & Inventory Management Platform',
       subtitle: 'Saudi Kayan',
       description:
-        'Enterprise warehouse management solution supporting 500+ daily users with advanced SAP integration and real-time tracking.',
+        'Enterprise Warehouse & Inventory Management Platform supporting 500+ daily users with advanced SAP integration and real-time tracking.',
       achievements: [
         'Reduced load times by ~45%',
         'Developed SAP Posting Module',
+        'Automated monthly archiving of 20,000+ container records using Spring Batch and Scheduler, transferring completed records to a dedicated archive database with chunk processing and failure recovery.',
         'Resolved production issues',
         'Supported 500+ daily users',
       ],
-      technologies: ['Java 17', 'Spring Boot', 'Hibernate', 'React.js', 'TypeScript', 'SQL Server', 'JWT'],
+      technologies: ['Java 17', 'Spring Boot','Spring batch','Spring scheduler','Hibernate', 'React.js', 'JavaScript','Docker', 'SQL Server', 'JWT'],
       featured: true,
       stats: {
         performance: '45% faster',
